@@ -32,8 +32,5 @@
     <ClCompile Include="Header Files.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Footer.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

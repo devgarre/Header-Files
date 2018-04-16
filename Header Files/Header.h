@@ -3,5 +3,6 @@
 
 using namespace std;
 
-void say(string sayThis);
-string hear(string PromptUser);
+void print(string output);
+string listen(string input);
+void next();
